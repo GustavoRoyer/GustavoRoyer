@@ -6,18 +6,19 @@
 </div>
   
 
-## olá amigos programadores 👋
-
-- 📈 Trabalho com administração
-- 🖥️ Estou estudando ciência da computação
-- 🤝 tenho interesse em colaborar no mundo do software livre 
-- 📫 para me contatar: royer@mercoplacas.ind.br
-
+## olá amigos programadores 👋 
+<p>
+- 📈 Trabalho com administração <br>
+- 🖥️ Estou estudando ciência da computação<br>
+- 🤝 tenho interesse em colaborar no mundo do software livre <br>
+- 📫 para me contatar: royer@mercoplacas.ind.br<br>
+</p>
 
 
 ## Hi there 👋
-
-- 📈 I’m currently working with company management
-- 🖥️ I’m currently studying computer science
-- 🤝 I’m looking to collaborate on open source software
-- 📫 How to reach me: royer@mercoplacas.ind.br
+<p>
+- 📈 I’m currently working with company management<br>
+- 🖥️ I’m currently studying computer science<br>
+- 🤝 I’m looking to collaborate on open source software<br>
+- 📫 How to reach me: royer@mercoplacas.ind.br<br>
+</p>
