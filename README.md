@@ -19,6 +19,6 @@
 <p>
 - 📈 I’m currently working with company management<br>
 - 🖥️ I’m currently studying computer science<br>
-- 🤝 I’m looking to collaborate on open source software<br>
+- 🤝 I’m looking to collaborate in open source software<br>
 - 📫 How to reach me: royer@mercoplacas.ind.br<br>
 </p>
